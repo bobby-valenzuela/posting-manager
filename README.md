@@ -38,7 +38,7 @@ posting_collections/
 ## Creating a new collection
 Creating a new collection will... 
 - create a folder in your `POSTING_ROOT` dir with the name entered.
-- create an `.env` file in your `POSTING_ROOT` dir which can be use to hold any collection variables.
+- create an `.env` file in your collection dir which can be use to hold any collection variables.
 - Save an `API_KEY` variable and `BASE_URL` variable in your `.env` file based on the data inputted.
 
 <br />
